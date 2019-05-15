@@ -2,7 +2,7 @@
 
 <a href="http://www.adafruit.com/products/280"><img src="assets/image.jpg?raw=true" width="500px"></a>
 
-This is the PCB for the Adafruit 1.5" Color OLED display breakout board
+This is the PCB for the Adafruit USB/DC Lithium Ion/Polymer charger
 __Format is EagleCAD schematic and board layout__
 
 Charge your single-cell lithium ion/polymer battery any which way you like with this board. Have a USB connection? No problem, just plug into the miniUSB connector. Only have a wall adapter? Any standard 2.1mm DC adapter which puts out 5 to 12VDC will work fine. If both are plugged in, the charger will automatically choose whichever has the highest voltage.
